@@ -15,3 +15,10 @@ This is the link to my chat:
 https://chatgpt.com/share/68d9c3f6-d57c-8005-97f8-1c3d813e4c44
 
 _____________________________________________________________________________________________________________________________________
+
+Week03 AI Journal:
+
+I definitely ended up having to use AI a lot this week. I had a little trouble understanding some of the questions, so I relied on AI a bit heavily for some definitions and examples. However, since I use Google Cobalt for my exercises, the built in AI helped me a bunch. I am not sure how I activated it as it never popped up before, but examples of code would randomly appear for many of the questions. I do not remember for which ones, but it definitely helped me get through this week's assignments much better. I also used ChatGPT to further explain the examples given to me by Google Cobalt, but I am not sure if it is captured in the link I am putting here.
+
+This is the link to my chat:
+https://chatgpt.com/share/68da00d6-6318-8005-b46b-748a554e27db
