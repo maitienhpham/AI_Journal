@@ -22,3 +22,16 @@ I definitely ended up having to use AI a lot this week. I had a little trouble u
 
 This is the link to my chat:
 https://chatgpt.com/share/68da00d6-6318-8005-b46b-748a554e27db
+
+_____________________________________________________________________________________________________________________________________
+
+Week 04 AI Journal:
+
+I unfortunately again ended up using AI more for this week's exercise, and did have to use it for some debugging. It was a bit hard at first as I needed a lot of practice to get back on remembering how to do these types of coding exercises, so AI definitely helped a lot with reminding me how.
+
+Most of the AI help was actually from the AI built into Cobalt, however I am not actually sure of how I activated it or if it really is just built in. I do not know how to record what helped me, but I do remember that it helped me the most by explaining to me my errors, and helping me to fix them and debug.
+
+I did also used ChatGPT but to help remind me, or to better explain certain topics, vocabulary, and the examples for the lecture. I also used it to help explain a few things that the AI had generated for me on Cobalt.
+
+This is the link to my chat:
+https://chatgpt.com/share/68e33746-1638-8005-ae9c-86c051d1af54
