@@ -35,3 +35,16 @@ I did also used ChatGPT but to help remind me, or to better explain certain topi
 
 This is the link to my chat:
 https://chatgpt.com/share/68e33746-1638-8005-ae9c-86c051d1af54
+
+_____________________________________________________________________________________________________________________________________
+
+Week 05 AI Journal:
+
+I also ended up having to use AI a lot more than I wanted to for this week's exercise as well. However, I used it more so to explain what the questions were asking me because I was getting a bit too confused from the wording. I did this for many of the questions as seen in my ChatGPT link below.
+
+Another way I used AI was to explain an example provided within the lecture file provided in the Week 05 module. 
+
+I did use AI a little bit to help debug small parts, and to explain why the specific part was changed.
+
+This is the link to my chat:
+https://chatgpt.com/share/68e9a38f-7578-8005-b472-063cca11e89a
