@@ -48,3 +48,17 @@ I did use AI a little bit to help debug small parts, and to explain why the spec
 
 This is the link to my chat:
 https://chatgpt.com/share/68e9a38f-7578-8005-b472-063cca11e89a
+
+_____________________________________________________________________________________________________________________________________
+
+Week 06 AI Journal:
+
+This week, the exercises were more challenging to me than usual so I did end up having to use AI again to verify a few things for me. I tried restraining myself to only use it to either define words/topics for me, or to further explain what the question was trying to ask. I believe that I did ask AI to help debug one exercise for me (question 18). However, I ended up not using the code AI gave me as I still did not fully understand it.
+
+I asked AI to help refresh my brain about class and static methods as it has been a bit since we have done exercises due to fall break, and as well as a lot on how to define and format date and times in code.
+
+This is the link to my chat:
+(Ignore one chat that I sent where I did not realize I had highlighted the whole exercise rather than one question)
+https://chatgpt.com/share/68feed2b-100c-8005-910d-1938cbcc2b86
+
+
