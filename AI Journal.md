@@ -61,4 +61,17 @@ This is the link to my chat:
 (Ignore one chat that I sent where I did not realize I had highlighted the whole exercise rather than one question)
 https://chatgpt.com/share/68feed2b-100c-8005-910d-1938cbcc2b86
 
+_____________________________________________________________________________________________________________________________________
+
+Week 07 AI Journal:
+
+For this week's exercise, I used AI to explain to me a few of the questions and as well as debug/explain some answers. It was a bit challenging for me, so I unfortunately used it more than I would have liked to. 
+
+For example, I used AI to help me to better understand the starter helper so that I knew what I was working with. I used AI to help me debug and explain to me questions like question 14, where I was a bit confused as to what it was asking for and I did not know how to begin it. I tried using AI to help explain to me question 12, however even with the answer provided to me I did not understand a part of it, so I did not include it into my code.
+
+I also used AI to provide me a refresher of UTF-8 text files.
+
+This is the link to my chat:
+https://chatgpt.com/share/6906bff0-6864-8005-9be3-07498c7afde8
+
 
