@@ -74,4 +74,18 @@ I also used AI to provide me a refresher of UTF-8 text files.
 This is the link to my chat:
 https://chatgpt.com/share/6906bff0-6864-8005-9be3-07498c7afde8
 
+_____________________________________________________________________________________________________________________________________
+
+Week 08 AI Journal:
+
+This week's exercise might have been the most difficult in my opinion. I ended up having to ask a lot of questions to ChatGPT, and some of which I still did not understand leading me to leave one or two questions unfinished. I asked for a variety of things such as refresher, a bit of debugging, and just wondering if my code in general was correct.
+
+Some refreshers I asked about were on topics like super(), as I was still a bit unfamiliar with the topic. I also asked about duck typing, unittest, and for some further explanation on Polymorphic functions within Python.
+
+For debugging, I had to ask specifcally about my answer for question 13 since my results were returning False instead of True, so I asked Chat as to why that was happening. However, because I did not import any other information about the exercise it did not give me the answer I wanted, so I ended up just googling it. It was also stated in the exercise, but I had to override __eq__ on the classes by doing @dataclass(eq = False) and it ended up fixing my issue. I did some more digging, and was able to further understand as to why that was needed.
+
+This week was just a bit more tough than usual.
+
+This is the link to my chat:
+https://chatgpt.com/share/69113861-c884-8005-9520-88d7969bfbf4
 
