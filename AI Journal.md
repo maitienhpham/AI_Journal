@@ -89,3 +89,18 @@ This week was just a bit more tough than usual.
 This is the link to my chat:
 https://chatgpt.com/share/69113861-c884-8005-9520-88d7969bfbf4
 
+_____________________________________________________________________________________________________________________________________
+
+Week 10 AI Journal:
+
+This week's exercise was also quite difficult in my opinion, but it was more so just me struggling to read all of the code since it felt a bit too much on my eyes.
+
+I attempted to use minimal AI usage for this assignment, but did end up having to use it to explain a few things to me. I asked AI to explain to me the basis of the starting code and to explain what its overall purpose was. I already had an idea, but I wanted to get more specific. 
+
+I then asked AI to explain to me what a few of the questions were asking for, and to give me a bit of an outline to guide me without giving me the straight answers. However, there were a few questions near the end of the assignment where I just did not understand how to answer and did not fully understand how AI answered it as well, leading me to unfortunately leave the questions blank.
+
+The last few things I asked were just about some concepts like hashing, just to give me a bit of a reminder.
+
+This is the link to my chat:
+https://chatgpt.com/share/693ca164-8970-8005-a823-2d74f71bd37e
+
