@@ -91,6 +91,21 @@ https://chatgpt.com/share/69113861-c884-8005-9520-88d7969bfbf4
 
 _____________________________________________________________________________________________________________________________________
 
+Week 09 AI Journal:
+
+I thought previous weeks were difficult, but I believe this one is now the most difficult one I have completed, for me at least. I think it was just more difficult because of how large and cramped up my code started to become.
+
+I did end up using AI a lot more for this assignment, and asked about debugging a few times. This assignment was much harder for me to figure out than usual, so I ended up asking AI about what was a certain question asking for, but without giving me the answers.
+
+I also had to ask AI to refresh my memory about certainn concepts like what it means to be instantiated, and more information about abstract methods.
+
+This is the link to my chat:
+It contains a bit less because I lost a lot of my chats, but a majority was just me asking what were certain questions asking for, or why my code was not working.
+
+https://chatgpt.com/share/693ce021-3f9c-8005-9794-de89f84b279d
+
+_____________________________________________________________________________________________________________________________________
+
 Week 10 AI Journal:
 
 This week's exercise was also quite difficult in my opinion, but it was more so just me struggling to read all of the code since it felt a bit too much on my eyes.
